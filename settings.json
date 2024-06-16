@@ -68,5 +68,6 @@
     "console-ninja.featureSet": "Community",
     "sakai-icons.hidesExplorerArrows": false,
     "workbench.iconTheme": "sakai",
-    "workbench.colorTheme": "Rosé Pine Moon"
+    "workbench.colorTheme": "Rosé Pine Moon",
+    "window.titleBarStyle": "custom"
   }
